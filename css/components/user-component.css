@@ -60,3 +60,8 @@
 .user-component:nth-child(n + 2) {
   margin-top: 35px;
 }
+
+.user-component__subtitle i {
+  color: red;
+  font-size: 14px;
+}
